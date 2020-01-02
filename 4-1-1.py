@@ -1,8 +1,14 @@
 import pickle  # (객체,텍스트)직렬화, 역직렬화
 
 # 파일 이름과 데이터
-bfilename = 'C:/python_Webcroling/section4/test1.bin'
-tfilename = 'C:/python_Webcroling/section4/test2.txt'
+
+# In detop
+# bfilename = 'C:/python_Webcroling/section4/test1.bin'
+# tfilename = 'C:/python_Webcroling/section4/test2.txt'
+
+# In macWindow
+bfilename = 'C:/python/webcrolling/section4/webcrolling_section4/test1.bin'
+tfilename = 'C:/python/webcrolling/section4/webcrolling_section4/test2.txt'
 
 data1 = 77
 data2 = "Hello, world!"
